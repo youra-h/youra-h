@@ -5,4 +5,4 @@ Senior Frontend / Fullstack Developer · TypeScript · React · Vue 3 · headles
 
 - **Resume:** [resume.md](resume.md) · [PDF](resume.pdf) · [на русском](resume.ru.md)
 - **Featured project:** [soldy](https://github.com/youra-h/soldy) — headless UI components written once in a framework-agnostic TypeScript core, with thin adapters for React, Vue, Angular, Svelte, Solid and Web Components.
-- **Table benchmark:** [5,000 rows × 20 columns vs Naive UI, Element Plus, PrimeVue and TanStack Table](https://github.com/youra-h/soldy/blob/main/BENCHMARKS.md)
+- **Table benchmark:** [5,000 rows × 20 columns vs Naive UI, Element Plus, PrimeVue and TanStack Table](https://github.com/youra-h/soldy/blob/main/BENCHMARKS/table.md)
